@@ -429,7 +429,7 @@ color: white;
 
 .topContainer{
   display: flex;
-  gap: 30%;
+  gap: 20%;
 }
 
 .mainTitle{
@@ -523,6 +523,10 @@ display: flex;
 .lastTitle{
   max-width: 300px;
   font-size: 27px;
+}
+
+#footerTopImage{
+    width: 101%;
 }
 
 .footerContent{
