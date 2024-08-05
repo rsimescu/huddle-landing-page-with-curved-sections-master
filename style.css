@@ -1,7 +1,7 @@
 *{
   margin: 0;
   padding: 0;
-
+  outline: 1px solid #f00 !important;
 }
 
 body{
@@ -425,6 +425,10 @@ color: white;
 @media screen and (max-width: 750px) {
 .topContainer img{
   width: 35%;
+}
+
+body{
+  box-sizing: border-box;
 }
 
 .topContainer{
