@@ -284,7 +284,10 @@ font-family: "Poppins";
 
 .statistics h1{
 font-size: 74px;
+}
 
+#footerTopImage{
+  margin-left: -2px;
 }
 
 .comunities{
