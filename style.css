@@ -1,7 +1,6 @@
 *{
   margin: 0;
   padding: 0;
-  outline: 1px solid #f00 !important;
 }
 
 body{
@@ -284,10 +283,6 @@ font-family: "Poppins";
 
 .statistics h1{
 font-size: 74px;
-}
-
-#footerTopImage{
-  margin-left: -2px;
 }
 
 .comunities{
