@@ -526,6 +526,8 @@ display: flex;
 }
 
 #footerTopImage{
+display: flex;
+justify-content: center;
     width: 100%;
 }
 
