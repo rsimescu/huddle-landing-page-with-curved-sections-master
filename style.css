@@ -525,11 +525,6 @@ display: flex;
   font-size: 27px;
 }
 
-#footerTopImage{
-display: flex;
-justify-content: center;
-    width: 100%;
-}
 
 .footerContent{
   display: flex;
